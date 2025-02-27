@@ -24,10 +24,10 @@ For comparison, we also provide a **Vanilla DQN** implementation.
 The notebook outputs two result images comparing **Rainbow DQN** with **Vanilla DQN**:
 
 ### **Rainbow DQN Performance**
-![Rainbow DQN](images/rainbow_cartpole.png)
+![Rainbow DQN](images/rainbow.png)
 
 ### **Vanilla DQN Performance**
-![Vanilla DQN](images/dqn_cartpole.png)
+![Vanilla DQN](images/vanilla_dqn.png)
 
 ### **Observations**
 - Rainbow DQN achieves a **perfect score (200)** quickly and stabilizes.
