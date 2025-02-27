@@ -6,7 +6,7 @@ This repository contains an implementation of **Rainbow DQN** applied to the **C
 This implementation is based on the **Rainbow DQN** paper:  
 ["Rainbow: Combining Improvements in Deep Reinforcement Learning"](https://arxiv.org/abs/1710.02298) by Hessel et al.
 
-A **detailed PDF explanation of the paper** is provided in this repository.
+A [**detailed PDF explanation of the paper** ](Reinforcement_Learning_Rainbow_Explained.pdf) is provided in this repository.
 
 ## 📌 Methods Implemented
 The **Rainbow DQN** algorithm combines several improvements over the standard DQN, including:
